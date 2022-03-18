@@ -1,5 +1,5 @@
 # **Canvas API Scrapper**
-> Built using node and the [Canvas API](https://canvas.instructure.com/doc/api/).
+> Built using [Node.js](https://nodejs.org/) and the [Canvas API](https://canvas.instructure.com/doc/api/).
 
 ## **Installation**
 1. Clone the repository
